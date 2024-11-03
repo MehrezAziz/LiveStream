@@ -3,12 +3,15 @@ video call app using react js, node js , express js and socket.io
 
 
 étapes:
-cd server
-npm install express socket.io cors
-npm install
-node server.js
+1- cd server
+2- npm install express socket.io cors
+3- npm install
+4- node server.js
 
-cd client
-npm install socket.io-client
-npm install
-npm start
+5- cd ../client
+6- npm install socket.io-client
+7- npm install
+8- npm start
+
+9- cd ../server
+10- npm install express socket.io cors
